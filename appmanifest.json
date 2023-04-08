@@ -1,0 +1,10 @@
+{
+	"name": "Saving Animals",
+	"short_name": "Saving Animals",
+	"description": "memory game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#252323",
+	"icons": []
+}
